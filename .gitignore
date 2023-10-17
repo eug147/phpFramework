@@ -1,0 +1,14 @@
+#
+#*.jpg
+#
+#img/
+#
+#
+/public/assets/Data_Images/
+/public/assets/att_images/
+/public/assets/app_images/
+/public/assets/ispitaniya-sortov/img
+/public/assets/media/images
+/public/assets/promo/images
+/tmp/logs/
+/.idea
